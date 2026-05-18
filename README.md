@@ -154,7 +154,6 @@ This repository points to the live product:
 
 **🌐 [https://oledanimationmaker.com](https://oledanimationmaker.com)**
 
-Source code for the full app: [github.com/AshishY794/oledanimationmaker](https://github.com/AshishY794/oledanimationmaker)
 
 ---
 
