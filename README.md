@@ -160,7 +160,6 @@ This repository points to the live product:
 
 **🌐 [https://oledanimationmaker.com](https://oledanimationmaker.com)**
 
-Source code for the full app: [github.com/AshishY794/oledanimationmaker](https://github.com/AshishY794/oledanimationmaker)
 
 ---
 
@@ -170,7 +169,6 @@ Source code for the full app: [github.com/AshishY794/oledanimationmaker](https:/
 |----------|-----|
 | **Live app (use this)** | [https://oledanimationmaker.com](https://oledanimationmaker.com) |
 | **Sitemap** | [https://oledanimationmaker.com/sitemap.xml](https://oledanimationmaker.com/sitemap.xml) |
-| **Full source repo** | [https://github.com/AshishY794/oledanimationmaker](https://github.com/AshishY794/oledanimationmaker) |
 
 ---
 
