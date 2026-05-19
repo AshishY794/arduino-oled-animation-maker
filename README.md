@@ -66,6 +66,8 @@ Same workflow as professional **OLED animator** tools — optimized for **Arduin
 | **650+ Icons8 Lottie icons** | arduino oled icons, ssd1306 ui animation |
 | **Pixel editor + timeline** | oled bitmap generator arduino |
 | **GIF → OLED converter** | gif to oled arduino, gif to ssd1306 |
+| **Image → byte array export** | image to byte array arduino, image2cpp alternative |
+| **OLED pixel editor** | oled pixel editor, oled animations |
 | **SSD1306 & SH1106** | ssd1306 animation, sh1106 oled animation |
 | **128×64, 128×32, 64×48** | 128x64 oled animation, 0.96 oled animation |
 | **WebSerial live preview** | esp32 oled animation, live oled preview |
@@ -102,11 +104,15 @@ Same workflow as professional **OLED animator** tools — optimized for **Arduin
 | People search for… | What you get at oledanimationmaker.com |
 |--------------------|----------------------------------------|
 | **oled animation maker** | Online editor + instant export |
+| **oled animations** | Multi-frame templates + timeline playback |
 | **arduino oled animation** | Ready `.ino` / `.py` sketches |
+| **arduino oled code generator** | One-click Adafruit / U8g2 / MicroPython |
 | **ssd1306 animation** | PROGMEM bitmaps + frame loop |
 | **ssd1306 code generator** | Copy-paste Arduino C++ |
 | **gif to oled arduino** | Import tab → animated frames |
+| **image to byte array arduino** | PNG/GIF → PROGMEM arrays + loop |
 | **oled bitmap generator arduino** | Draw or template → byte arrays |
+| **oled pixel editor** | Draw, animate, export — no install |
 | **esp32 oled animation** | ESP32 board preset + WebSerial |
 | **micropython oled animation** | Pico / ESP32 MicroPython export |
 | **create animations for arduino** | Templates + timeline, no coding required |
@@ -154,6 +160,7 @@ This repository points to the live product:
 
 **🌐 [https://oledanimationmaker.com](https://oledanimationmaker.com)**
 
+Source code for the full app: [github.com/AshishY794/oledanimationmaker](https://github.com/AshishY794/oledanimationmaker)
 
 ---
 
@@ -163,7 +170,7 @@ This repository points to the live product:
 |----------|-----|
 | **Live app (use this)** | [https://oledanimationmaker.com](https://oledanimationmaker.com) |
 | **Sitemap** | [https://oledanimationmaker.com/sitemap.xml](https://oledanimationmaker.com/sitemap.xml) |
-
+| **Full source repo** | [https://github.com/AshishY794/oledanimationmaker](https://github.com/AshishY794/oledanimationmaker) |
 
 ---
 
