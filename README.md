@@ -156,10 +156,21 @@ Yes. Choose ESP32 in board settings, export code, and use **WebSerial** for live
 
 ### Where is the main application?
 
-This repository points to the live product:
+**🌐 [https://oledanimationmaker.com](https://oledanimationmaker.com)** — free in your browser, no install.
 
-**🌐 [https://oledanimationmaker.com](https://oledanimationmaker.com)**
+---
 
+## Blog (tutorials for SEO)
+
+Free tutorials at **[oledanimationmaker.com/blog](https://oledanimationmaker.com/blog/)**:
+
+- [Arduino OLED display tutorial (I2C SSD1306)](https://oledanimationmaker.com/blog/arduino-oled-display-tutorial-i2c-ssd1306.html)
+- [How to create SSD1306 OLED animations](https://oledanimationmaker.com/blog/how-to-create-ssd1306-oled-animations-arduino.html)
+- [GIF to OLED Arduino](https://oledanimationmaker.com/blog/gif-to-oled-arduino-convert-animations.html)
+- [Image to byte array (image2cpp alternative)](https://oledanimationmaker.com/blog/image-to-byte-array-arduino-oled-image2cpp-alternative.html)
+- [ESP32 OLED animation guide](https://oledanimationmaker.com/blog/esp32-oled-animation-guide.html)
+- [Live connect OLED — WebSerial preview](https://oledanimationmaker.com/blog/how-to-live-connect-oled-webserial-arduino.html)
+- [SH1106 vs SSD1306](https://oledanimationmaker.com/blog/sh1106-vs-ssd1306-oled-animation.html)
 
 ---
 
@@ -168,6 +179,7 @@ This repository points to the live product:
 | Resource | URL |
 |----------|-----|
 | **Live app (use this)** | [https://oledanimationmaker.com](https://oledanimationmaker.com) |
+| **Blog / tutorials** | [https://oledanimationmaker.com/blog/](https://oledanimationmaker.com/blog/) |
 | **Sitemap** | [https://oledanimationmaker.com/sitemap.xml](https://oledanimationmaker.com/sitemap.xml) |
 
 ---
